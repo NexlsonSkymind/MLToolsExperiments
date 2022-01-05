@@ -1,2 +1,4 @@
 *.neptune
 *wandb
+*keys.py
+*__pycache__
